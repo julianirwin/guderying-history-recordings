@@ -1,9 +1,6 @@
-# Guderyon Family History
+---
+title: Guderyon Family History Recordings
+layout: default
+---
 
-## Heading One
-
-Body
-
-## Heading Two
-
-Body
+Hello!
