@@ -3,6 +3,13 @@ title: List of Recordings
 layout: default
 ---
 
+Lori collected a handful of audio recordings of Jim and Elaine telling stories
+over the years. They have been digitized and posted as unlisted youtube videos
+below.
+
+Note: Transcripts were software generated and definitely contain errors. If
+anyone is feeling ambitious they could correct them and send them to
+julian.irwin@gmail.com so they can be updated on the website.
 
 ## 2009 
 
