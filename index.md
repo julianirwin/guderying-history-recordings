@@ -2,7 +2,7 @@
 title: List of Recordings
 layout: default
 ---
-Dec 2022- Jim continuing stories of farm life: his family's focus on college education, his first car and dating. After 20:00 minutes, some stories about the year that Jim & Celjie lived on the Pitzke farm in Stetsonville, while their Dad (Harold) attended UW-Madison and their Mom (Mabel) worked the farm in Chenequa. Jim was 5 and Celjie was 7.
+
 
 ## 2009 
 
