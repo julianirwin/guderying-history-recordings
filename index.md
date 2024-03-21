@@ -2,6 +2,7 @@
 title: List of Recordings
 layout: default
 ---
+Dec 2022- Jim continuing stories of farm life: his family's focus on college education, his first car and dating. After 20:00 minutes, some stories about the year that Jim & Celjie lived on the Pitzke farm in Stetsonville, while their Dad (Harold) attended UW-Madison and their Mom (Mabel) worked the farm in Chenequa. Jim was 5 and Celjie was 7.
 
 ## 2009 
 
@@ -19,6 +20,8 @@ Note: Transcripts were software generated and may contain errors.
 
 <iframe src="https://www.youtube.com/embed/I_JRQ-6_-L0" title="2016 Early Marriage 1950s On" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+Elaine & Jim reminiscing about their wedding day (Aug 17,1951), their move to Missouri Army base, and Joel's birth. Recorded in August of 2016.
+
 [Transcript][2]
 
 
@@ -28,12 +31,22 @@ Note: Transcripts were software generated and may contain errors.
 
 <iframe src="https://www.youtube.com/embed/Prp5O-Ft73k" title="2022 December 1 Car Crash Aftermath Story" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+Jim sharing about his mother, Mabel Pitzke's early death.  Also some history of
+the Pitzke family's immigration to Milwaukee and Stetsonville.  Jim's stories of
+his childhood on the farm in Chenequa. Recorded December 1st of 2022.
+
 [Transcript][3]
 
 
 ### Stories from Jim's Early Life
 
 <iframe src="https://www.youtube.com/embed/qY7cThp4HH4" title="2022 December Jim Early Life" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Jim continuing stories of farm life: his family's focus on college education,
+his first car and dating. After 20:00 minutes, some stories about the year that
+Jim & Celjie lived on the Pitzke farm in Stetsonville, while their Dad (Harold)
+attended UW-Madison and their Mom (Mabel) worked the farm in Chenequa. Jim was 5
+and Celjie was 7. Recorded in December of 2022.
 
 [Transcript][4]
 
