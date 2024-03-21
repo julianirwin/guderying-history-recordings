@@ -75,5 +75,5 @@ and Celjie was 7. Recorded in December of 2022.
 [2]: https://raw.githubusercontent.com/julianirwin/guderyon-history-recordings/main/transcripts/2016%20Early%20Marriage%201950s%20On%20transcript_aws.txt
 [3]: https://raw.githubusercontent.com/julianirwin/guderyon-history-recordings/main/transcripts/2022%20December%201%20Car%20Crash%20transcript_aws.txt
 [4]: https://raw.githubusercontent.com/julianirwin/guderyon-history-recordings/main/transcripts/2022%20December%20Jim%20Early%20Life%20transcript_aws.txt
-[5]: https://raw.githubusercontent.com/julianirwin/guderyon-history-recordings/main/transcripts/2023%20August%2016%20Guderyon%20Early%20History%20transcript_aws.txt
-[6]: https://raw.githubusercontent.com/julianirwin/guderyon-history-recordings/main/transcripts/2023%20August%203%20Nurse%20Conversation%20transcript_aws.txt
+[5]: https://raw.githubusercontent.com/julianirwin/guderyon-history-recordings/main/transcripts/2023%20August%203%20Nurse%20Conversation%20transcript_aws.txt
+[6]: https://raw.githubusercontent.com/julianirwin/guderyon-history-recordings/main/transcripts/2023%20August%2016%20Guderyon%20Early%20History%20transcript_aws.txt
