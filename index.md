@@ -17,9 +17,10 @@ julian.irwin@gmail.com so they can be updated on the website.
 
 <iframe src="https://www.youtube.com/embed/ur5rifZGuLc?si=ZCEzRu7c-pO6jAuw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-[Transcript][1]
+Jim retelling what he knew about his Grandfather and Great-grandfather
+immigrating to Wisconsin. Recorded by Julian for a school project.
 
-Note: Transcripts were software generated and may contain errors. 
+[Transcript][1]
 
 ## 2016 
 
@@ -27,7 +28,8 @@ Note: Transcripts were software generated and may contain errors.
 
 <iframe src="https://www.youtube.com/embed/I_JRQ-6_-L0" title="2016 Early Marriage 1950s On" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-Elaine & Jim reminiscing about their wedding day (Aug 17,1951), their move to Missouri Army base, and Joel's birth. Recorded in August of 2016.
+Elaine & Jim reminiscing about their wedding day (Aug 17,1951), their move to
+Missouri Army base, and Joel's birth. Recorded in August of 2016.
 
 [Transcript][2]
 
